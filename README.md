@@ -30,5 +30,10 @@ Check out my [repositories](https://github.com/5hr1ganesh?tab=repositories) for 
 - ![image](https://github.com/user-attachments/assets/bfb252c8-0bb4-4c25-a894-cb146ae33134)
 - One more Coming soon
 
+## 📚 Courses
+- <img width="466" alt="image" src="https://github.com/user-attachments/assets/4f8609bc-e18f-4b78-99a6-f0aaa1b62a36" />  <img width="466" alt="image" src="https://github.com/user-attachments/assets/db4057c8-5679-45cc-9c9d-bf9c34a48dd6" /> <img width="466" alt="image" src="https://github.com/user-attachments/assets/b77ac434-3e55-4c30-bf8a-136c386c147c" />
+
+
+
 
 
