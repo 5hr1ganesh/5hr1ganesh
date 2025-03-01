@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Shriganesh
 
-Welcome to my GitHub profile! I'm a student developer in the realm of Web3 passionate about the 3rd Web revolution. I love building things, solving problems, and learning something new every day.
+Welcome to my GitHub profile! I'm a student developer in the realm of Web3, I am passionate about the 3rd Web revolution. I love building things, love solving problems and learning something new every day.
 
 ## 🚀 About Me
 
@@ -32,11 +32,11 @@ Check out my [repositories](https://github.com/5hr1ganesh?tab=repositories) for 
 
 ## 📚 Courses
 - [Foundry 101](https://updraft.cyfrin.io/courses/foundry/completed)
-- <img width="466" alt="image" src="https://github.com/user-attachments/assets/4f8609bc-e18f-4b78-99a6-f0aaa1b62a36" />
+- <img width="445" alt="image" src="https://github.com/user-attachments/assets/4f8609bc-e18f-4b78-99a6-f0aaa1b62a36" />
 - [BlockChain Basics](https://updraft.cyfrin.io/courses/blockchain-basics/completed)
-- <img width="466" alt="image" src="https://github.com/user-attachments/assets/db4057c8-5679-45cc-9c9d-bf9c34a48dd6" />
+- <img width="445" alt="image" src="https://github.com/user-attachments/assets/db4057c8-5679-45cc-9c9d-bf9c34a48dd6" />
 - [Solidity 101](https://updraft.cyfrin.io/courses/solidity/completed)
-- <img width="466" alt="image" src="https://github.com/user-attachments/assets/b77ac434-3e55-4c30-bf8a-136c386c147c" />
+- <img width="445" alt="image" src="https://github.com/user-attachments/assets/b77ac434-3e55-4c30-bf8a-136c386c147c" />
 
 
 
