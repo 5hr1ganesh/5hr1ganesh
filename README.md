@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a student developer in the realm of Web3, I am
 ## 🛠️ Tech Stack
 
 - **Languages**: Solidity, Python, Javascript, SQl, HTML, Typescript
-- **Frameworks/Tools**: Foundry, Django, Node.js, Postman, Git, PostGreSql
-- **Interests**: Web Dev, Algorithms, Cloud Computing
+- **Frameworks/Tools**: Foundry, Django, Node.js, Postman, Git, PostGreSql, MySQL
+- **Interests**: Web3, Smart Contract dev, AI 
 
 ## 🌟 Featured Projects
 
