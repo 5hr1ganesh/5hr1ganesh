@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student developer in the realm of Web3, I am
 - 👯 Open to collaborate on: []
 - ⚡ Fun fact: Given ample time I can learn Anything
 - 📍 Location: Remote, anywhere
-- 📫 Reach me at: https://x.com/Shriganesh2002
+- 📫 Reach me at: guptashriganesh2002@gmail.com
 
 ## 🛠️ Tech Stack
 
