@@ -29,7 +29,8 @@ Check out my [repositories](https://github.com/5hr1ganesh?tab=repositories) for 
 - **[BlockChain Fundamentals Certification](https://www.credly.com/badges/012f44fa-f15a-4d92-8681-5123ab808ea8)**
  ![image](https://github.com/user-attachments/assets/bfb252c8-0bb4-4c25-a894-cb146ae33134)
 - **[ChainLink Fundamentals Certication](https://www.credly.com/badges/51f70be1-770a-417a-8ac3-86a07ce6327f/public_url)
- ![image](https://github.com/user-attachments/assets/9998e703-ae3e-4788-9ecf-f12241d7cd55)
+ ![image](https://github.com/user-attachments/assets/950d2e10-bfe2-4452-ac87-588a0c9a871c)
+
 
 
 ## 📚 Courses
