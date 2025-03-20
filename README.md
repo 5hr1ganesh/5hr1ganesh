@@ -42,6 +42,6 @@ Check out my [repositories](https://github.com/5hr1ganesh?tab=repositories) for 
 - <img width="445" alt="image" src="https://github.com/user-attachments/assets/b77ac434-3e55-4c30-bf8a-136c386c147c" />
 
 
-
+[![An image of @5hr1ganesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5hr1ganesh)](https://holopin.io/@5hr1ganesh)
 
 
