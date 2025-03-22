@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a student developer in the realm of Web3, I am
 
 - 🔭 Currently working on: Mastering Secure Smart contract development
 - 🌱 Learning: Security focused Smart Contract development using foundry
-- 👯 Open to collaborate on: []
 - ⚡ Fun fact: Given ample time I can learn Anything
 - 📍 Location: Remote, anywhere
 - 📫 Reach me at: guptashriganesh2002@gmail.com
+- 🎓 Education: CS grad
 
 ## 🛠️ Tech Stack
 
